@@ -1,6 +1,5 @@
-**/.DS_store
+**/.DS_store/
 
 # DB
 .env
-
 db/data/**
