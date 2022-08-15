@@ -3,4 +3,4 @@
 
 # DB
 .env
-db/data/**
+db/data/*
