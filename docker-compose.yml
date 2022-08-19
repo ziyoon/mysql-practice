@@ -20,10 +20,8 @@ services:
     env_file: .env
     environment:
       TZ: Asia/Seoul
-    # networks:
-    #   - backend
-
-
-
-
-# docker pull --platform linux/amd64 mysql
+      
+      
+      
+# networks:
+#   - backend
