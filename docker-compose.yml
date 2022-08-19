@@ -20,8 +20,5 @@ services:
     env_file: .env
     environment:
       TZ: Asia/Seoul
-      
-      
-      
-# networks:
-#   - backend
+    # networks:
+    #   - backend
